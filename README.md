@@ -3,4 +3,5 @@ PCA is a simple Programming Contest code Analyzer, using static programming anal
 
 ## TODO
 1. Initialize the project.
+2. Learning.
 
